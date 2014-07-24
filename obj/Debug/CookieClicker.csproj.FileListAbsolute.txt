@@ -1,0 +1,6 @@
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+c:\users\frucifer\documents\visual studio 2012\Projects\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
