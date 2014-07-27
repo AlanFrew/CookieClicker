@@ -6,3 +6,11 @@ Bake 1 million total cookies (including those spent) in the shortest possible ti
 would not likely affect the outcome.
 
 You can play the game yourself at http://orteil.dashnet.org/cookieclicker/
+
+
+Things to note about the code:
+
+-All the method and variable names are informative
+-There are comments where appropriate
+-The code is broken up into multiple methods, not just clumped together in one big Main method
+-The code uses classes to organize some of the data
